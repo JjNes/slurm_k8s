@@ -1,4 +1,4 @@
-# Урок 1
+# Урок 1: Pod
 ### Создаем кластер
 ```shell
 minikube start
@@ -9,7 +9,7 @@ minikube start
 kubectl create -f pod.yaml
 ```
 
-### Проверяем работы
+### Проверяем работу
 ```shell
 kubectl get pod
 ```
